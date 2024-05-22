@@ -1,0 +1,14 @@
+[project]
+name = "comfyui_inpaint"
+description = "Nodes: InpaintMediapipe. This node provides a simple interface to inpaint."
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/mihaiiancu/ComfyUI_Inpaint"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI_Inpaint"
+Icon = ""
